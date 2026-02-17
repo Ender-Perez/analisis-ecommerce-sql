@@ -14,6 +14,11 @@ Proyecto de análisis de datos utilizando SQL (SQLite) para responder preguntas 
 
 ---
 
+## 📂 Consultas SQL
+
+Las consultas utilizadas en el análisis se encuentran en la carpeta /sql.
+
+---
 ## Objetivos del análisis
 
 1. Identificar el cliente que genera mayor ingreso.
