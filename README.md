@@ -24,7 +24,7 @@ Las consultas utilizadas en el análisis se encuentran en la carpeta /sql.
 1. Identificar el cliente que genera mayor ingreso.
 2. Detectar clientes en riesgo de abandono.
 3. Analizar los productos que impulsan la facturación.
-4. Comparar comportamiento de clientes recurrentes y nuevos.
+
 
 ---
 
@@ -51,18 +51,32 @@ Insight: Se utilizó la métrica de recencia para identificar riesgo de churn.
 ---
 
 ### Producto que más impulsa la facturación
-Xbox Series X (product_id = 18)  
-Total generado: $18.799,53  
-47 unidades vendidas.
+MacBook Air M1 (product_id = 4)  
+Total generado: $34.500  
+23 unidades vendidas.
 
 Insight: Producto de alta rotación y alto impacto en ingresos.  
 
 ## Top 3 productos que son más vendidos en unidades:
-  1) product_id = 18, Xbox Series x con un total de 47 Unidades.  
-  2) product_id = 24, GoPro Hero 11 con un total de 42 Unidades.  
-  3) product_id = 25, Disco SSD 1TB Kingston con un total de 39 Unidades
+  1) product_id = 16, Samsung Galaxy Tab S8 con un total de 26 Unidades.  
+  2) product_id = 2, Samsung Galaxy S23 con un total de 25 Unidades.  
+  3) product_id = 26, Disco Externo 2TB WD con un total de 24 Unidades. 
 ---
 
+## Insight General: 
+ El análisis muestra que la facturación del negocio está impulsada principalmente por productos de alto valor unitario, más que por volumen de compra.
+
+ Los clientes que más ingresos generan no compran en grandes cantidades, sino que realizan compras recurrentes de productos con precios cercanos o superiores al promedio. 
+ Esto indica que la recurrencia tiene mayor impacto en ingresos que el volumen por transacción.
+
+ Por otro lado, la identificación de clientes con alta recencia (más de 400 días sin comprar) evidencia oportunidades claras de activación mediante estrategias de retención.
+
+ En conclusión, el crecimiento del negocio puede optimizarse mediante:
+
+   Estrategias de fidelización enfocadas en clientes recurrentes.
+   Campañas de reactivación para clientes con alta recencia.
+   Promoción estratégica de productos de alto ticket que ya demuestran fuerte impacto en ingresos.
+   
 ## Habilidades demostradas
 
 - JOIN entre múltiples tablas
