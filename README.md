@@ -43,8 +43,8 @@ Insight: Su facturación se explica por recurrencia y valor unitario.
 ---
 
 ### Cliente en riesgo de abandono
-Victoria Flores (customer_id = 40)  
-718 días desde la última compra.
+Daniel Ponce (customer_id = 44)  
+402 días desde la última compra.
 
 Insight: Se utilizó la métrica de recencia para identificar riesgo de churn.
 
