@@ -73,9 +73,9 @@ Insight: Producto de alta rotación y alto impacto en ingresos.
 
  En conclusión, el crecimiento del negocio puede optimizarse mediante:
 
-   Estrategias de fidelización enfocadas en clientes recurrentes.
-   Campañas de reactivación para clientes con alta recencia.
-   Promoción estratégica de productos de alto ticket que ya demuestran fuerte impacto en ingresos.
+   -Estrategias de fidelización enfocadas en clientes recurrentes.
+   -Campañas de reactivación para clientes con alta recencia.
+   -Promoción estratégica de productos de alto ticket que ya demuestran fuerte impacto en ingresos.
    
 ## Habilidades demostradas
 
