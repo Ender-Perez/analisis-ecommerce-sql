@@ -35,8 +35,8 @@ Tamara Alonso (customer_id = 50)
 Total generado: $13.599,66  
 - 9 órdenes realizadas  
 - Cliente recurrente  
-- Compra productos cercanos al promedio de precio  
-- No compra en volumen  
+- Compra productos cercanos al promedio de precio de $518,89 
+- No compra en volumen   
 
 Insight: Su facturación se explica por recurrencia y valor unitario.
 
